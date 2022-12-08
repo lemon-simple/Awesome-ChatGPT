@@ -28,7 +28,7 @@ Run your own GPTChat Telegram bot, with a single command!
 
 [wechat-**chatgpt**](https://github.com/fuergaosi233/wechat-chatgpt) **762 star**
 
-Use **ChatGPT** On Wechat via wechaty
+Use **ChatGPT** On Wechat via wechaty🔥🔥🔥
 
 
 
