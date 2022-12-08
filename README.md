@@ -73,7 +73,7 @@ Please have a look at the [CONTRIBUTING](https://github.com/lemon-simple/Awesome
 
 **国内**
 
-关注公众号 **V起来** ，回复 chatGPT 即可使用。
+**关注公众号 **V起来** ，回复 chatGPT 即可使用。**
 
 WeChat：Follow the V up , reply to chatGPT to use.
 
