@@ -68,7 +68,7 @@ Please have a look at the [CONTRIBUTING](https://github.com/lemon-simple/Awesome
 
 [c]: https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg
 
-# 免费提供稳定高质量服务（已付费），可免费体验：
+# 免费提供稳定高质量服务（已付费），可免费体验
 
 **国内**
 
