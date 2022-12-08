@@ -69,12 +69,16 @@ Please have a look at the [CONTRIBUTING](https://github.com/lemon-simple/Awesome
 [c]: https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg
 
 # 免费提供稳定高质量服务（已付费），可免费体验
+# Free to provide stable high quality service (paid), can be free to experience
 
 **国内**
 
 关注公众号 **V起来** ，回复 chatGPT 即可使用。
 
+WeChat：Follow the V up , reply to chatGPT to use.
+
 <img width="508" alt="image" src="https://user-images.githubusercontent.com/28141497/206417011-3f07516b-6074-400a-b51c-6cdaf1d03827.png">
 
 **海外**：关注公众号 **V起来** ，回复 TGchatGPT 即可获取 Telegram链接。
+(Telegram : https://t.me/+ArdWo1OYS3MxN2Rl)
 
