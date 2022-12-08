@@ -76,5 +76,5 @@ Please have a look at the [CONTRIBUTING](https://github.com/lemon-simple/Awesome
 
 <img width="508" alt="image" src="https://user-images.githubusercontent.com/28141497/206417011-3f07516b-6074-400a-b51c-6cdaf1d03827.png">
 
-**海外**：关注公众号 ** V起来** ，回复 TGchatGPT 即可获取 Telegram链接。
+**海外**：关注公众号 **V起来** ，回复 TGchatGPT 即可获取 Telegram链接。
 
