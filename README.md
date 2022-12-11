@@ -8,7 +8,7 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 
 **Browser Extension(浏览器插件)**
 
-**1. ChatGPT for Google ![Github stars](https://img.shields.io/github/stars/wong2/chat-gpt-google-extension.svg)** 
+1. ChatGPT for Google ![Github stars](https://img.shields.io/github/stars/wong2/chat-gpt-google-extension.svg)
 
 This plugin supports browsers such as Chrome, Edge, and Firefox. After installation, in addition to displaying Google search results in the browser as usual, feedback from ChatGPT will also be displayed on the right side, further improving search efficiency.
 
@@ -18,7 +18,7 @@ This plugin supports browsers such as Chrome, Edge, and Firefox. After installat
 
 GitHub：_https://github.com/wong2/chat-gpt-google-extension_
 
-**2. ChatGPT Chrome Extension![Github stars](https://img.shields.io/github/stars/gragland/chatgpt-chrome-extension.svg)** 
+2. ChatGPT Chrome Extension![Github stars](https://img.shields.io/github/stars/gragland/chatgpt-chrome-extension.svg)
 
 This is a ChatGPT plugin developed specifically for Chrome users. After installation, simply right-click in any text box on a webpage to bring up the "Ask ChatGPT" option. Upon selection, ChatGPT will perform tasks based on the current content of the text box, allowing for quick completion of tasks such as composing tweets, editing emails, fixing bugs, and more, making it extremely convenient.
 
@@ -77,8 +77,9 @@ GitHub：_https://github.com/transitive-bullshit/chatgpt-api_ ![Github stars](ht
 **WeChat super robot（在微信中使用chatGPT）**
 
 A project like ChatGPT, which is so interesting and cutting-edge, would be even more powerful when paired with WeChat, right? For those who have the same idea, here are two open-source projects we recommend.
-像ChatGPT 如此有趣且前卫的黑科技项目，与微信搭配使用，岂不是如虎添翼？跟我有一样想法的同学，这里给你推荐两个开源项目。  
-**1. WeChat GPT （微信 chatGPT机器人）**
+像ChatGPT 如此有趣且前卫的黑科技项目，与微信搭配使用，岂不是如虎添翼？跟我有一样想法的同学，这里给你推荐两个开源项目。
+
+1. WeChat GPT （微信 chatGPT机器人）
 
 This project builds a bridge between WeChat and ChatGPT using wechaty, allowing you to quickly initiate a conversation with ChatGPT through the WeChat chat window. Before using it, you need to configure your OpenAI user information and corresponding trigger keywords.
 
@@ -87,7 +88,8 @@ This project builds a bridge between WeChat and ChatGPT using wechaty, allowing 
 ![](https://mmbiz.qpic.cn/mmbiz_png/uDRkMWLia28iamkH8X8CeT0ObsEdC1iaPKrfZ55dZ3U4FBP3cQEIfhNUALoD7HBDrbojATMj4cNcMg9oeC0mtbWuA/640?wx_fmt=png)
 
 GitHub：_https://github.com/fuergaosi233/wechat-chatgpt_  ![Github stars](https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt.svg)
-**2. ChatGPT WeChat Bot（微信 chatGPT机器人）**
+
+2. ChatGPT WeChat Bot（微信 chatGPT机器人）
 
 This project is developed using NodeJS and webchaty, and like the above project, it is deployed using Docker. After configuring your user information, you can quickly use it. You can invite the robot to your group, mention it and ask a question, and you will get a response. 
 Here is an example of its actual use:
