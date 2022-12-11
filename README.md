@@ -111,10 +111,15 @@ GitHub：_https://github.com/AutumnWhj/ChatGPT-wechat-bot_ ![Github stars](https
 一个VSCode扩展，允许你使用**ChatGPT**
 A VSCode extension that allows you to use **ChatGPT**
 
+![image](https://user-images.githubusercontent.com/28141497/206899711-b16dab38-c73c-4f14-9be7-c5826ac81365.png)
+
 
 **Telegram Bot(电报机器人)**
 
 [**chatGPT**-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) ![Github stars](https://img.shields.io/github/stars/altryne/chatGPT-telegram-bot.svg)
+
+![image](https://user-images.githubusercontent.com/28141497/206899733-0873a0b1-9bb2-406e-98be-02749f6c296f.png)
+
 
 这是让**chatGPT**在电报TG中使用的一个早期的项目
 This is a very early attempt at having **chatGPT** work within a telegram bot
@@ -132,7 +137,7 @@ Please have a look at the [CONTRIBUTING](https://github.com/lemon-simple/Awesome
 
 **国内**
 
-**关注公众号 **V起来** ，回复 **github** 即可使用。
+关注公众号**V起来** ，回复 **github** 即可使用。
 
 WeChat：Follow the V up , reply to github to use.
 
